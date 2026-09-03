@@ -1,0 +1,8 @@
+metric_name,value,formatted_value
+Total Registered Customers,206209.0,"206,209"
+Total Catalog Products,49688.0,"49,688"
+Platform Lifetime Orders,3421083.0,"3,421,083"
+Average Basket Size,9.95,10.0 items
+Platform Reorder Rate,43.22,43.2%
+Supervised Prediction ROC-AUC,0.8252,82.52%
+SARIMA Forecast Error (MAPE),2.37,2.37%
