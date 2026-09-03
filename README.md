@@ -12,25 +12,6 @@
 
 ---
 
-## 📑 Table of Contents
-
-- [Executive Summary & Core Capabilities](#-executive-summary--core-capabilities)
-- [System Architecture](#-system-architecture)
-- [The 5 Core Intelligence Layers](#-the-5-core-intelligence-layers)
-  - [1. Data Lake & Relational Modeling (PostgreSQL)](#1-data-lake--relational-modeling-postgresql)
-  - [2. Customer Behavioral Segmentation (K-Means Clustering)](#2-customer-behavioral-segmentation-k-means-clustering)
-  - [3. Personalized Purchase Prediction (LightGBM)](#3-personalized-purchase-prediction-lightgbm)
-  - [4. Operational Demand Forecasting (SARIMA)](#4-operational-demand-forecasting-sarima)
-  - [5. Consumer-Product Knowledge Graph (Neo4j)](#5-consumer-product-knowledge-graph-neo4j)
-- [Model Evaluation & Benchmarks](#-model-evaluation--benchmarks)
-- [Interactive Web Platform & REST API](#-interactive-web-platform--rest-api)
-- [Power BI Executive Analytics Suite](#-power-bi-executive-analytics-suite)
-- [Repository Structure](#-repository-structure)
-- [Quick Start & Installation](#-quick-start--installation)
-- [Tech Stack](#-tech-stack)
-
----
-
 ## 🌟 Executive Summary & Core Capabilities
 
 Modern e-commerce platforms struggle with three major challenges: **customer churn**, **cart drop-off**, and **supply chain overstocking/stockouts**. AudienceIQ provides an end-to-end mathematical and engineering solution:
@@ -282,12 +263,3 @@ Double-click **`launch_powerbi.bat`** (or open Power BI Desktop &rarr; `Get Data
 - **Business Intelligence**: Microsoft Power BI Desktop (Star Schema & DAX)
 
 ---
-
-## 📄 License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  <b>AudienceIQ</b> — Turning e-commerce transactional data into high-conviction predictive intelligence.
-</p>
